@@ -1,0 +1,136 @@
+html
+{
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+
+.name
+{
+    margin-top: 0;
+    margin-bottom: 0.4em;
+    font-size: 1.5em;
+}
+
+.infoBlock
+{
+    margin-bottom: 1em;
+    margin-left: 1.2em;
+}
+
+.mt-3p
+{
+    margin-top: 3px;
+}
+
+.mt-1m
+{
+    margin-top: 1em;
+}
+
+.icon-phone
+{
+    display: flex;
+    margin-top: 4px;
+    color: blue;
+    float: left;
+}
+
+.icon-viber
+{
+    display: flex;
+    margin-top: 3px;
+    color: rgb(140, 124, 247);
+    float: left;
+}
+
+.icon-skype
+{
+    display: flex;
+    margin-top: 3px;
+    color: rgb(0, 166, 224);
+    float: left;
+}
+
+.icon-email
+{
+    display: flex;
+    margin-top: 3px;
+    margin-left: 2px;
+    float: left;
+}
+
+.contact-info-1
+{
+    margin-left: 5px;
+}
+
+.contact-info-2
+{
+    margin-left: 3px;
+}
+
+.contact-info-3
+{
+    margin-left: 3px;
+}
+
+.contact-info-4
+{
+    margin-left: 3px;
+}
+
+.contact-info-link-0
+{
+    margin-left: 93px;
+}
+
+.contact-info-link-1
+{
+    margin-left: 20px;
+}
+
+.contact-info-link-2
+{
+    margin-left: 111px;
+}
+
+.contact-info-link-3
+{
+    margin-left: 103px;
+}
+
+.contact-info-link-4
+{
+    margin-left: 103px;
+}
+
+.skillList
+{
+    list-style-type: "\2713";
+    padding: 0;
+    margin: 0;
+}
+
+.skillList li
+{
+    margin-left: 9px;
+    padding-left: 5px;
+}
+
+.mainInfo
+{
+    width: 100%;
+    font-size: 0.85em;
+    margin-top: 3em;
+}
+
+.mainInfo td
+{
+    padding-bottom: 10px;
+}
+
+.mainInfo .rowTitle
+{
+    width: 16%;
+}
